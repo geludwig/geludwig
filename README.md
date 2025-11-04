@@ -1,6 +1,6 @@
 ## Hi there, I'm George 👋
 
-<a href="https://www.abuseipdb.com/user/33865" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+<a title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
   <img src="https://www.abuseipdb.com/contributor/33865.svg" alt="AbuseIPDB Contributor Badge" style="width: 300px;">
 </a>
 
